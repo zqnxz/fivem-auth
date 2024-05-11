@@ -1,0 +1,1 @@
+Secured FiveM Auth
