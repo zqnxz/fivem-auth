@@ -1,3 +1,3 @@
 Secured FiveM Auth
-for better & secured custom auth
+for better & secured custom auth  
 discord.gg/zerosec
